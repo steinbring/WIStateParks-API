@@ -12,7 +12,8 @@
     "directions": "Amnicon Falls State Park is about 7 miles east of the Superior city limits in Douglas County.",
     "hours": "Amnicon Falls State Park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "46.6084,-91.8873",
-    "slug": "amnicon-falls-state-park"
+    "slug": "amnicon-falls-state-park",
+    "distance": -1
   },
   {
     "name": "Aztalan State Park",
@@ -27,7 +28,8 @@
     "directions": "2 miles east of Lake Mills",
     "hours": "Aztalan State Park is open year-round from 6 a.m. to 10 p.m.",
     "LatLongCoordinates": "43.0687,-88.8635",
-    "slug": "aztalan-state-park"
+    "slug": "aztalan-state-park",
+    "distance": -1
   },
   {
     "name": "Belmont Mound State Park",
@@ -42,7 +44,8 @@
     "directions": "Belmont Mound State Park is located near Belmont on N Co Rd. G in Platteville.",
     "hours": "Belmont Mount State Park is open from 6 a.m. to 11 p.m. year-round.",
     "LatLongCoordinates": "42.7672,-90.3517",
-    "slug": "belmont-mound-state-park"
+    "slug": "belmont-mound-state-park",
+    "distance": -1
   },
   {
     "name": "Big Bay State Park",
@@ -57,7 +60,8 @@
     "directions": "Big Bay State Park is located on Madeleine Island. Madeline Island Ferry boats operate on regular schedules between Bayfield and La Pointe. During winter, ferry service from Bayfield is available until the ferry is unable to break the ice on the lake. When ferry service is no longer available, an ice road or wind-sleds and passenger vans may be available to Madeline Island.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "46.7881,-90.6734",
-    "slug": "big-bay-state-park"
+    "slug": "big-bay-state-park",
+    "distance": -1
   },
   {
     "name": "Big Foot Beach State Park",
@@ -72,7 +76,8 @@
     "directions": "The park entrance is at 1550 S. Lake Shore Drive, one mile south of the city of Lake Geneva.",
     "hours": "Big Foot Beach State Park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "42.5663,-88.4368",
-    "slug": "big-foot-beach-state-park"
+    "slug": "big-foot-beach-state-park",
+    "distance": -1
   },
   {
     "name": "Black River State Forest",
@@ -87,7 +92,8 @@
     "directions": "The Black River State Forest is located in the heart of west-central Wisconsin near the city of Black River Falls. It is about two hours southeast of Minneapolis and two hours northwest of Madison near Interstate 94.",
     "hours": "The forest is open year-round 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "44.2839,-90.8287",
-    "slug": "black-river-state-forest"
+    "slug": "black-river-state-forest",
+    "distance": -1
   },
   {
     "name": "Blue Mound State Park",
@@ -102,7 +108,8 @@
     "directions": "Blue Mound State Park is just north of the Village of Blue Mounds, about 25 miles west of Madison via US Highway 18/151.",
     "hours": "Blue Mound State Park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.0256,-89.8441",
-    "slug": "blue-mound-state-park"
+    "slug": "blue-mound-state-park",
+    "distance": -1
   },
   {
     "name": "Brule River State Forest",
@@ -117,7 +124,8 @@
     "directions": "Brule River State Forest is a long, long linear property in northwestern Wisconsin. The property is about 30 miles north to south, containing the entire 44 miles of the Bois Brule River.",
     "hours": "The forest is open year-round 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "46.538180,-91.592966",
-    "slug": "brule-river-state-forest"
+    "slug": "brule-river-state-forest",
+    "distance": -1
   },
   {
     "name": "Brunet Island State Park",
@@ -132,7 +140,8 @@
     "directions": "Brunet Island State Park is located near Chippewa Falls",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "45.1798,-91.1623",
-    "slug": "brunet-island-state-park"
+    "slug": "brunet-island-state-park",
+    "distance": -1
   },
   {
     "name": "Buckhorn State Park",
@@ -147,7 +156,8 @@
     "directions": "Buckhorn State Park is located near Wisconsin Dells",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.9469,-90.0042",
-    "slug": "buckhorn-state-park"
+    "slug": "buckhorn-state-park",
+    "distance": -1
   },
   {
     "name": "Cadiz Springs St. Rec. Area",
@@ -162,7 +172,8 @@
     "directions": "Cadiz Springs State Recreation Area is about 1 mile east of Browntown and 8 miles west of Monroe on State Highway 11.",
     "hours": "Cadiz Springs is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "42.5842,-89.7672",
-    "slug": "cadiz-springs-st-rec-area"
+    "slug": "cadiz-springs-st-rec-area",
+    "distance": -1
   },
   {
     "name": "Capital Springs St. Rec. Area",
@@ -177,7 +188,8 @@
     "directions": "The Lussier Family Heritage Center and campground are at 3101 Lake Farm Road. The Jenni and Kyle Preserve, part of Capital Springs State Recreation Area, is at 925 Post Road.",
     "hours": "Capital Springs is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.0270,-89.3450",
-    "slug": "capital-springs-st-rec-area"
+    "slug": "capital-springs-st-rec-area",
+    "distance": -1
   },
   {
     "name": "Chippewa Flowage",
@@ -192,7 +204,8 @@
     "directions": "The Chippewa Flowage is located in central Sawyer County in northwestern Wisconsin. Access from the south is via either State Highway 27 and 70 and Sawyer County Highway CC or from the north via Sawyer County Highway B and CC. Access points are off County Highway CC in the central portion of the property, County Highway B on the north, or via County Highway G and Dam Road on the southeast side. The property office is located on Highway 27 at the DNR Service Center in Hayward.",
     "hours": "The property is open from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "46.002210,-91.488230",
-    "slug": "chippewa-flowage"
+    "slug": "chippewa-flowage",
+    "distance": -1
   },
   {
     "name": "Chippewa Moraine St. Rec. Area",
@@ -207,7 +220,8 @@
     "directions": "The David R. Obey Ice Age Interpretive Center is 7 miles east of New Auburn and 1.9 miles east of State Highway 40 on County Highway M.",
     "hours": "Chippewa Moraine State Recreation Area is open from 6 a.m. to 11 p.m. daily.",
     "LatLongCoordinates": "45.220326,-91.410939",
-    "slug": "chippewa-moraine-st-rec-area"
+    "slug": "chippewa-moraine-st-rec-area",
+    "distance": -1
   },
   {
     "name": "Copper Culture State Park",
@@ -222,7 +236,8 @@
     "directions": "As you drive north on Highway 41 take the Highway 22 exit.  Turn left around the round-about, under the highway, then left around the second round-about to Copper Culture Way.  There are signs to help.  continue to the t-intersection and turn left.  Follow the road around to the park.",
     "hours": "June 1st through Laber Day - 12:00 P.M. to 4:00 P.M\nOpen Weekends Labor Day through October 15th 12:00 P.M. to 4:00 P.M\nGroup Tours Available by Appointment May 1st through November 1st",
     "LatLongCoordinates": "44.8884,-87.8963",
-    "slug": "copper-culture-state-park"
+    "slug": "copper-culture-state-park",
+    "distance": -1
   },
   {
     "name": "Copper Falls State Park",
@@ -237,7 +252,8 @@
     "directions": "Copper Falls is about two miles northeast of Mellen in Ashland County.",
     "hours": "Copper Falls is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "46.3526,-90.6454",
-    "slug": "copper-falls-state-park"
+    "slug": "copper-falls-state-park",
+    "distance": -1
   },
   {
     "name": "Coulee Experimental St. Forest",
@@ -252,7 +268,8 @@
     "directions": "The Coulee Experimental State Forest is located approximately 15 miles east of La Crosse in La Crosse County. The forest has two main parking areas. To access the eastern parking lot and ski trailhead, from Bangor take Highway 162 south to County Road II. Turn right on the forest road at the top of the hill. The parking area is at the end of the road. To reach the western side parking lot, take Highway 33 east from La Crosse, then north on County Road M. Turn right on Russlan Coulee Road, just east of Barre Mills. Parking areas are at the end of the road.",
     "hours": "The property is open from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.8478,-91.0420",
-    "slug": "coulee-experimental-st-forest"
+    "slug": "coulee-experimental-st-forest",
+    "distance": -1
   },
   {
     "name": "Council Grounds State Park",
@@ -267,7 +284,8 @@
     "directions": "Council Grounds is conveniently located just west of Merrill.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "45.1875,-89.7342",
-    "slug": "council-grounds-state-park"
+    "slug": "council-grounds-state-park",
+    "distance": -1
   },
   {
     "name": "Cross Plains State Park",
@@ -282,7 +300,8 @@
     "directions": "There is a gravel parking lot on along the south side of Old Sauk Pass Road about 100 yards east of the main access area (8075 Old Sauk Pass Road). Visitors should park in this parking lot. Vehicles must not block the gate at the main access area. Parking is also available at the end of North Birch Trail where a short trail provides access to the DNR land south of the road. A small parking lot off of County Highway S provides access to the Fish and Wildlife property.",
     "hours": "Open 6 a.m. to 11 p.m. year-round.",
     "LatLongCoordinates": "43.0821,-89.6112",
-    "slug": "cross-plains-state-park"
+    "slug": "cross-plains-state-park",
+    "distance": -1
   },
   {
     "name": "Devil’s Lake State Park",
@@ -297,7 +316,8 @@
     "directions": "The main entrance to Devil's Lake State Park is on the north shore of the lake off County Highway DL. The Visitor Center, Chateau, Nature Center, picnic area, shelters and beach are on the north shore. Quartzite, Northern Lights and Ice Age campgrounds are all accessed by the north shore entrance.",
     "hours": "Open 6 a.m. to 11 p.m. year-round.",
     "LatLongCoordinates": "43.428405,-89.732272",
-    "slug": "devils-lake-state-park"
+    "slug": "devils-lake-state-park",
+    "distance": -1
   },
   {
     "name": "Fischer Creek St. Rec. Area",
@@ -312,7 +332,8 @@
     "directions": "Take Highway LS South from Manitowoc approximately 8 miles. Driveways to the East.",
     "hours": "Open sunrise to sunset year-round.",
     "LatLongCoordinates": "43.9398,-87.7215",
-    "slug": "fischer-creek-st-rec-area"
+    "slug": "fischer-creek-st-rec-area",
+    "distance": -1
   },
   {
     "name": "Flambeau River State Forest",
@@ -327,7 +348,8 @@
     "directions": "The Flambeau River State Forest is located in north central Wisconsin in Sawyer, Price and Rusk counties. It surrounds 75 miles of the North and South Forks of the Flambeau River, with its headquarters located in the town of Winter.",
     "hours": "The property is open from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "45.769926,-90.760837",
-    "slug": "flambeau-river-state-forest"
+    "slug": "flambeau-river-state-forest",
+    "distance": -1
   },
   {
     "name": "Governor Dodge State Park",
@@ -342,7 +364,8 @@
     "directions": "Governor Dodge State Park's entrance is about 3 miles north of Highway 18 in Dodgeville.",
     "hours": "Governor Dodge State Park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.0184,-90.1395",
-    "slug": "governor-dodge-state-park"
+    "slug": "governor-dodge-state-park",
+    "distance": -1
   },
   {
     "name": "Governor Knowles State Forest",
@@ -357,7 +380,8 @@
     "directions": "Governor Knowles State Forest is 55 miles, encompassing 32,500 acres, and acting as an extended resource protection zone for the St. Croix National Scenic Riverway. The forest extends from Danbury to Wolf Creek along the St. Croix River.",
     "hours": "The forest is open year-round 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "45.772948,-92.688560",
-    "slug": "governor-knowles-state-forest"
+    "slug": "governor-knowles-state-forest",
+    "distance": -1
   },
   {
     "name": "Governor Nelson State Park",
@@ -372,7 +396,8 @@
     "directions": "The entrance to Governor Nelson State Park is on the southeast side of County Highway M, about 2 miles west of State Highway 113 and 4.7 miles east of U.S. Highway 12.",
     "hours": "Governor Nelson State Park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.1374,-89.4399",
-    "slug": "governor-nelson-state-park"
+    "slug": "governor-nelson-state-park",
+    "distance": -1
   },
   {
     "name": "Governor Thompson State Park",
@@ -387,7 +412,8 @@
     "directions": "Governor Thompson State Park is approximately 15 miles northwest of Crivitz.",
     "hours": "Governor Thompson State Park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "45.3233,-88.2218",
-    "slug": "governor-thompson-state-park"
+    "slug": "governor-thompson-state-park",
+    "distance": -1
   },
   {
     "name": "Harrington Beach State Park",
@@ -402,7 +428,8 @@
     "directions": "Harrington Beach is about 35 miles north of Milwaukee and 21 miles south of Sheboygan, Wisconsin, via Interstate Highway 43. From I-43, take exit 107 (Belgium/Lake Church) and go east on County Highway D about 1 mile. The park entrance will be on your right.",
     "hours": "Harrington Beach State Park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.4974,-87.8109",
-    "slug": "Harrington-Beach-State-Park"
+    "slug": "Harrington-Beach-State-Park",
+    "distance": -1
   },
   {
     "name": "Hartman Creek State Park",
@@ -417,7 +444,8 @@
     "directions": "Hartman Creek is about 1 hour and 15 minutes from Green Bay and about two hours north of Madison. It is west of Waupaca on Hartman Creek Road, south of State Highway 54 and north of State Highway 22. The park straddles the Waupaca-Portage county line.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "44.3293,-89.2139",
-    "slug": "Hartman-Creek-State-Park"
+    "slug": "Hartman-Creek-State-Park",
+    "distance": -1
   },
   {
     "name": "Havenwoods State Forest",
@@ -432,7 +460,8 @@
     "directions": "Havenwoods State Forest is on the north side of Milwaukee, one block west of Sherman Boulevard on Douglas Avenue. At the park entrance, continue up the hill to the parking lot and nature center.",
     "hours": "The forest is open year-round from 6 a.m. to 8 p.m.",
     "LatLongCoordinates": "43.1288,-87.9697",
-    "slug": "Havenwoods-State-Forest"
+    "slug": "Havenwoods-State-Forest",
+    "distance": -1
   },
   {
     "name": "Heritage Hill State Park",
@@ -447,7 +476,8 @@
     "directions": "Our main entrance is through the Education Center, and gate next to the Education Center, off of Webster Ave.",
     "hours": "Open Tuesday – Sunday from 8am – 3pm. Closed on Mondays.",
     "LatLongCoordinates": "44.4731,-88.0300",
-    "slug": "Heritage-Hill-State-Park"
+    "slug": "Heritage-Hill-State-Park",
+    "distance": -1
   },
   {
     "name": "High Cliff State Park",
@@ -462,7 +492,8 @@
     "directions": "High Cliff State Park is on the northeast corner of Lake Winnebago in the town of Sherwood, Wisconsin.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "44.1670,-88.2911",
-    "slug": "High-Cliff-State-Park"
+    "slug": "High-Cliff-State-Park",
+    "distance": -1
   },
   {
     "name": "Hoffman Hills St. Rec. Area",
@@ -477,7 +508,8 @@
     "directions": "Hoffman Hills State Recreation Area is located on 740th Street, Menomonie, WI.",
     "hours": "Hoffman Hills is open year-round from 7 a.m. to 9 p.m.",
     "LatLongCoordinates": "44.9440,-91.7831",
-    "slug": "Hoffman-Hills-St-Rec-Area"
+    "slug": "Hoffman-Hills-St-Rec-Area",
+    "distance": -1
   },
   {
     "name": "Interstate Park",
@@ -492,7 +524,8 @@
     "directions": "Interstate Park is in St. Croix Falls, on Wisconsin Highway 35 just 1/2 mile south of U.S. Highway 8.",
     "hours": "Interstate Park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "45.3954,-92.6405",
-    "slug": "Interstate-Park"
+    "slug": "Interstate-Park",
+    "distance": -1
   },
   {
     "name": "Kettle Moraine SF – Lapham Peak Unit",
@@ -507,7 +540,8 @@
     "directions": "Lapham Peak is 25 miles west of Milwaukee and 1 mile south of Interstate 94 near Delafield, on County Highway C.",
     "hours": "The forest is open from 6 a.m. to 9 p.m. year-round.",
     "LatLongCoordinates": "43.0420,-88.4029",
-    "slug": "Kettle-Moraine-SF-Lapham-Peak-Unit"
+    "slug": "Kettle-Moraine-SF-Lapham-Peak-Unit",
+    "distance": -1
   },
   {
     "name": "Kettle Moraine SF – Loew Lake Unit",
@@ -522,7 +556,8 @@
     "directions": "The Loew Lake Unit of the Kettle Moraine State Forest is near the town of Monches, just north of the Washington/Waukesha county line. The main parking lot and trail head is on Emerald Drive, about 2 miles east of County Highway K in southern Washington County.",
     "hours": "The forest is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.2249,-88.3160",
-    "slug": "Kettle-Moraine-SF-Loew-Lake-Unit"
+    "slug": "Kettle-Moraine-SF-Loew-Lake-Unit",
+    "distance": -1
   },
   {
     "name": "Kettle Moraine SF – Mukwonago River Unit",
@@ -537,7 +572,8 @@
     "directions": "The property is about 5 miles west of the town of Mukwonago and about 3 miles north of the town of East Troy. There is a parking area on Waukesha County Highway LO. Visitors may park their vehicles in this area and walk into the property. Visitors should be aware of closed areas, active work zones and potential hazards from construction debris and demolished structures. There are parking lots on County Highway J and County Highway E in Walworth County. Visitors may park their vehicles in these areas and walk into the property.",
     "hours": "The Mukwonago River Unit of the Kettle Moraine State Forest is open from 6 a.m. to 11 p.m. year-round.",
     "LatLongCoordinates": "42.8567,-88.4178",
-    "slug": "Kettle-Moraine-SF-Mukwonago-River-Unit"
+    "slug": "Kettle-Moraine-SF-Mukwonago-River-Unit",
+    "distance": -1
   },
   {
     "name": "Kettle Moraine SF – Northern Unit",
@@ -552,7 +588,8 @@
     "directions": "The Northern Unit of the Kettle Moraine State Forest is a linear property spread out over 22 miles between Glenbeulah and West Bend.",
     "hours": "The forest is open from 6 a.m. to 11 p.m. daily.",
     "LatLongCoordinates": "43.6040,-88.1874",
-    "slug": "Kettle-Moraine-SF-Northern-Unit"
+    "slug": "Kettle-Moraine-SF-Northern-Unit",
+    "distance": -1
   },
   {
     "name": "Kettle Moraine SF – Pike Lake Unit",
@@ -567,7 +604,8 @@
     "directions": "Pike Lake is on State Highway 60 between Hartford and Slinger. It is about 25 miles north of Milwaukee, 60 miles east of Madison and 40 miles south of Fond du Lac. The forest entrance is about 3 miles west of U.S. Highway 41 and 7 miles west of U.S. Highway 45.",
     "hours": "The forest is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.3196,-88.3195",
-    "slug": "Kettle-Moraine-SF-Pike-Lake-Unit"
+    "slug": "Kettle-Moraine-SF-Pike-Lake-Unit",
+    "distance": -1
   },
   {
     "name": "Kettle Moraine SF – Southern Unit",
@@ -582,7 +620,8 @@
     "directions": "The Kettle Moraine State Forest—Southern Unit is 61 miles east of Madison and 37 miles southwest of Milwaukee.",
     "hours": "The state forest is open from 6 a.m. to 11 p.m. daily.",
     "LatLongCoordinates": "42.8766,-88.5252",
-    "slug": "Kettle-Moraine-SF-Southern-Unit"
+    "slug": "Kettle-Moraine-SF-Southern-Unit",
+    "distance": -1
   },
   {
     "name": "Kinnickinnic State Park",
@@ -597,7 +636,8 @@
     "directions": "From Interstate Highway 94 in Hudson, go south on County Highway F. Go about 7.7 miles to Cedar View Road (820th Avenue). Turn right and go about .2 mile; the park entrance will be on your left.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "44.8373,-92.7353",
-    "slug": "Kinnickinnic-State-Park"
+    "slug": "Kinnickinnic-State-Park",
+    "distance": -1
   },
   {
     "name": "Kohler-Andrae State Park",
@@ -612,7 +652,8 @@
     "directions": "Kohler-Andrae is about two miles south of Sheboygan on County Highway V. From Interstate Highway 43, take exit 120. Go east on Highway V about two miles. Where Highway V turns left (north), go straight ahead on Beach Park Lane, the park entrance road.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.6722,-87.7179",
-    "slug": "Kohler-Andrae-State-Park"
+    "slug": "Kohler-Andrae-State-Park",
+    "distance": -1
   },
   {
     "name": "Lake Kegonsa State Park",
@@ -627,7 +668,8 @@
     "directions": "Exit I-90 at Exit 147, Hwy N. Go south on Hwy N, then turn west on Koshkonong Road, turn south on Door Creek Road. It is approximately 4 miles from the freeway exit to the park. There are signs to direct you at every intersection.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "42.9791,-89.2334",
-    "slug": "Lake-Kegonsa-State-Park"
+    "slug": "Lake-Kegonsa-State-Park",
+    "distance": -1
   },
   {
     "name": "Lake Wissota State Park",
@@ -642,7 +684,8 @@
     "directions": "Lake Wissota State Park is located approximately 7 miles northeast Chippewa Falls.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "44.9798,-91.3109",
-    "slug": "Lake-Wissota-State-Park"
+    "slug": "Lake-Wissota-State-Park",
+    "distance": -1
   },
   {
     "name": "Lakeshore State Park",
@@ -657,7 +700,8 @@
     "directions": "Lakeshore State Park is located off the shore of Lake Michigan in downtown Milwaukee.",
     "hours": "Lakeshore State Park is open year-round from 6 a.m. to 10 p.m.",
     "LatLongCoordinates": "43.0282,-87.8960",
-    "slug": "Lakeshore-State-Park"
+    "slug": "Lakeshore-State-Park",
+    "distance": -1
   },
   {
     "name": "Lost Dauphin State Park",
@@ -672,7 +716,8 @@
     "directions": "Roughly four miles south of the city of De Pere",
     "hours": "Open sunrise to sunset year-round.",
     "LatLongCoordinates": "44.3878,-88.1229",
-    "slug": "Lost-Dauphin-State-Park"
+    "slug": "Lost-Dauphin-State-Park",
+    "distance": -1
   },
   {
     "name": "Lower Wisconsin State Riverway",
@@ -687,7 +732,8 @@
     "directions": "The Wisconsin River flows unimpeded by any man-made structures for 92.3 miles from the dam at Prairie du Sac downstream to its mouth at the Mississippi River. Approximately 95,000 acres of land on both sides of the river have been designated as the Lower Wisconsin State Riverway.",
     "hours": "The property is open from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.146111,-90.048058",
-    "slug": "Lower-Wisconsin-State-Riverway"
+    "slug": "Lower-Wisconsin-State-Riverway",
+    "distance": -1
   },
   {
     "name": "MacKenzie Center",
@@ -702,7 +748,8 @@
     "directions": "The entrance to the MacKenzie Center is located at the intersection of County Road CS and Park Road just outside Poynette.",
     "hours": "Grounds open daily, dawn to dusk",
     "LatLongCoordinates": "43.3995,-89.3632",
-    "slug": "MacKenzie-Center"
+    "slug": "MacKenzie-Center",
+    "distance": -1
   },
   {
     "name": "Menominee River St. Rec. Area",
@@ -717,7 +764,8 @@
     "directions": "The property is located in northeast Marinette County along several miles of the Menominee River. No single road traverses the entire property. The recreation area has many maintained access roads with parking areas that connect to town roads. These roads are not plowed in the winter and may be difficult to travel during wet periods of the year.",
     "hours": "The Menominee River State Recreation Area is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "45.6563,-87.8239",
-    "slug": "Menominee-River-St-Rec-Area"
+    "slug": "Menominee-River-St-Rec-Area",
+    "distance": -1
   },
   {
     "name": "Merrick State Park",
@@ -732,7 +780,8 @@
     "directions": "Go about 2.8 miles north from Fountain City or 5.5 miles south from Cochrane on State Highway 35. The park entrance is on the west side of the highway.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "44.1582,-91.7596",
-    "slug": "Merrick-State-Park"
+    "slug": "Merrick-State-Park",
+    "distance": -1
   },
   {
     "name": "Mill Bluff State Park",
@@ -747,7 +796,8 @@
     "directions": "Mill Bluff is on both sides of Interstate 90-94. Take the Oakdale exit #48 or Camp Douglas exit #55 to U.S. Highway 12/16 and follow signs to the park.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.9506,-90.3194",
-    "slug": "Mill-Bluff-State-Park"
+    "slug": "Mill-Bluff-State-Park",
+    "distance": -1
   },
   {
     "name": "Mirror Lake State Park",
@@ -762,7 +812,8 @@
     "directions": "Mirror Lake State Park is conveniently located just off Interstate 90-94. Exit I-90-94 to U.S. Highway 12 south of Wisconsin Dells.",
     "hours": "Mirror Lake State Park is open from 6 a.m. to 11 p.m. year-round.",
     "LatLongCoordinates": "43.5615,-89.8081",
-    "slug": "Mirror-Lake-State-Park"
+    "slug": "Mirror-Lake-State-Park",
+    "distance": -1
   },
   {
     "name": "Natural Bridge State Park",
@@ -777,7 +828,8 @@
     "directions": "Natural Bridge State Park is about 0.75 miles east of the village of Leland on County Highway C in Sauk County.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.3439,-89.9311",
-    "slug": "Natural-Bridge-State-Park"
+    "slug": "Natural-Bridge-State-Park",
+    "distance": -1
   },
   {
     "name": "Nelson Dewey State Park",
@@ -792,7 +844,8 @@
     "directions": "From State Highway 33 in Cassville, take County Highway V V northwest about a mile. The park entrance will be on your right and Stonefield Village Historic Site on your left.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "42.7316,-91.0175",
-    "slug": "Nelson-Dewey-State-Park"
+    "slug": "Nelson-Dewey-State-Park",
+    "distance": -1
   },
   {
     "name": "New Glarus Woods State Park",
@@ -807,7 +860,8 @@
     "directions": "From the Village of New Glarus, take State Highway 69 south about a mile to County Highway NN. Turn west on NN and go about 1/10 mile to the park entrance.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "42.7869,-89.6306",
-    "slug": "New-Glarus-Woods-State-Park"
+    "slug": "New-Glarus-Woods-State-Park",
+    "distance": -1
   },
   {
     "name": "Newport State Park",
@@ -822,7 +876,8 @@
     "directions": "Newport State Park is near the tip of the Door County Peninsula off State Hwy. 42. Traveling north from Ellison Bay visitors should turn right/east off Hwy. 42.",
     "hours": "Newport State Park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "45.2346,-86.9979",
-    "slug": "Newport-State-Park"
+    "slug": "Newport-State-Park",
+    "distance": -1
   },
   {
     "name": "Northern Highland American Legion SF",
@@ -837,7 +892,8 @@
     "directions": "The Northern Highland-American Legion State Forest is located in Vilas, Oneida and Iron counties, in heart of the Northwoods near the cities of Woodruff and Minocqua. It is approximately four hours northeast of Minneapolis and four hours north of Madison. There are two main Visitor Contact Stations in the forest at Clear and Crystal lakes.",
     "hours": "The forest is open from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "45.8648,-89.6509",
-    "slug": "Northern-Highland-American-Legion-SF"
+    "slug": "Northern-Highland-American-Legion-SF",
+    "distance": -1
   },
   {
     "name": "Pattison State Park",
@@ -852,7 +908,8 @@
     "directions": "From Belknap Street (US Highway 2/53) in downtown Superior, go south on Tower Avenue (State Highway 35) 13 miles. The park's main entrance will be on your left.",
     "hours": "Pattison State Park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "46.5371,-92.1192",
-    "slug": "Pattison-State-Park"
+    "slug": "Pattison-State-Park",
+    "distance": -1
   },
   {
     "name": "Peninsula State Park",
@@ -867,7 +924,8 @@
     "directions": "From Green Bay, take State Highway 57 north toward Sturgeon Bay. From Manitowoc, Take State Highway 42 north toward Sturgeon Bay. Before you get to Sturgeon Bay, Highways 57 and 42 join. Stay on State Highway 42 north to Fish Creek, where the highway turns east (right). Go 0.5 mile farther on Highway 42; the park entrance is on the north (left).",
     "hours": "Open 6 a.m. to 11 p.m. year-round.",
     "LatLongCoordinates": "45.1271,-87.2364",
-    "slug": "Peninsula-State-Park"
+    "slug": "Peninsula-State-Park",
+    "distance": -1
   },
   {
     "name": "Perrot State Park",
@@ -882,7 +940,8 @@
     "directions": "From the east or south, take US Highway 53 / State Highway 35 north from La Crosse. North of Holmen, turn left on Highway 35 where it splits from Highway 53. Take Highway 35 about 8 miles to Trempealeau.\n\nIn Trempealeau, Highway 35 becomes Main Street. Take Main Street south to First Street and turn right (west). First street becomes South Park Road in the park. Follow the signs to the park's various facilities and locations.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "44.0157,-91.4745",
-    "slug": "Perrot-State-Park"
+    "slug": "Perrot-State-Park",
+    "distance": -1
   },
   {
     "name": "Peshtigo River State Forest",
@@ -897,7 +956,8 @@
     "directions": "Governor Earl Peshtigo River State Forest is located in northeastern Wisconsin in Marinette and Oconto counties. The forest headquarters is about 16 miles northwest of the village of Crivitz within Governor Thompson State Park.",
     "hours": "The forest is open year-round 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "45.3481,-88.1994",
-    "slug": "Peshtigo-River-State-Forest"
+    "slug": "Peshtigo-River-State-Forest",
+    "distance": -1
   },
   {
     "name": "Point Beach State Forest",
@@ -912,7 +972,8 @@
     "directions": "To get to Point Beach from Two Rivers, the nearest community, take County Highway O north about 4 miles; the entrance road will be on your right.",
     "hours": "The forest is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "44.2113,-87.5102",
-    "slug": "Point-Beach-State-Forest"
+    "slug": "Point-Beach-State-Forest",
+    "distance": -1
   },
   {
     "name": "Potawatomi State Park",
@@ -927,7 +988,8 @@
     "directions": "From Milwaukee: Take Interstate 43 or US Highway 41 north to Green Bay. (If you take Highway 41, take it to the north side of Green Bay and exit on Interstate 43 south.) On the northeast side of Green Bay, exit from Interstate 43 onto State Highway 57 north and continue as directed below.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "44.8518,-87.4250",
-    "slug": "Potawatomi-State-Park"
+    "slug": "Potawatomi-State-Park",
+    "distance": -1
   },
   {
     "name": "Rib Mountain State Park",
@@ -942,7 +1004,8 @@
     "directions": "Rib Mountain is off of US Highway 51 just southwest of Wausau.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "44.9205,-89.6831",
-    "slug": "Rib-Mountain-State-Park"
+    "slug": "Rib-Mountain-State-Park",
+    "distance": -1
   },
   {
     "name": "Richard Bong St. Rec. Area",
@@ -957,7 +1020,8 @@
     "directions": "Richard Bong State Recreation Area is 8 miles southeast of Burlington, Wisconsin, on State Highway 142. The entrance is a little less than a mile west of State Highway 75.",
     "hours": "Richard Bong State Recreation Area is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "42.6340,-88.1272",
-    "slug": "Richard-Bong-St-Rec-Area"
+    "slug": "Richard-Bong-St-Rec-Area",
+    "distance": -1
   },
   {
     "name": "Roche-A-Cri State Park",
@@ -972,7 +1036,8 @@
     "directions": "The main entrance to the park is about 1.5 miles north of Friendship on State Highway 13, on the west side of the highway.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "44.0011,-89.8132",
-    "slug": "Roche-A-Cri-State-Park"
+    "slug": "Roche-A-Cri-State-Park",
+    "distance": -1
   },
   {
     "name": "Rock Island State Park",
@@ -987,7 +1052,8 @@
     "directions": "Two ferry rides are needed to reach Rock Island State Park. Take Wisconsin Highway 42 to its end at Northport, the tip of the Door County Peninsula. Take the Washington Island Ferry to Washington Island. The ferry carries people, vehicles, bicycles and freight. From the Washington Island ferry landing, travel across the island to the northeast side to the Rock Island ferry landing. Leave your vehicle or bike there and take the passengers-only Rock Island Ferry to Rock Island.",
     "hours": "Beginning Friday, May 28, 2021, the park will be open from 6 a.m. to 11 p.m. daily.\n\nThe Rock Island Ferry runs Memorial Day Weekend through Columbus Day.",
     "LatLongCoordinates": "45.4004,-86.8567",
-    "slug": "Rock-Island-State-Park"
+    "slug": "Rock-Island-State-Park",
+    "distance": -1
   },
   {
     "name": "Rocky Arbor State Park",
@@ -1002,7 +1068,8 @@
     "directions": "Take Interstate I-90/94 to Wisconsin Dells, and take exit 85. Go south, approximately 1/2 mile, on Highway 12 to the entrance for Rocky Arbor.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.6408,-89.8024",
-    "slug": "Rocky-Arbor-State-Park"
+    "slug": "Rocky-Arbor-State-Park",
+    "distance": -1
   },
   {
     "name": "Sauk Prairie St. Rec. Area",
@@ -1017,7 +1084,8 @@
     "directions": "Sauk Prairie State Recreation Area is in south-central Wisconsin just south of Devil's Lake State Park. The entrance to the recreation area is directly off of US Highway 12 about 8 miles south of Baraboo and 9 miles north of Sauk City.",
     "hours": "The property is open from 6 a.m. to 11 p.m. daily.",
     "LatLongCoordinates": "43.3700,-89.7672",
-    "slug": "Sauk-Prairie-St-Rec-Area"
+    "slug": "Sauk-Prairie-St-Rec-Area",
+    "distance": -1
   },
   {
     "name": "Straight Lake State Park",
@@ -1032,7 +1100,8 @@
     "directions": "Straight Lake State Park is about 4.5 miles northeast of Luck.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "45.5987,-92.4064",
-    "slug": "Straight-Lake-State-Park"
+    "slug": "Straight-Lake-State-Park",
+    "distance": -1
   },
   {
     "name": "Tower Hill State Park",
@@ -1047,7 +1116,8 @@
     "directions": "Tower Rock State Park is located between Craig and Pelican Point. The east side of Tower Rock is visible from I-15 and can be accessed by using Exit 247 at Hardy Creek.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.1471,-90.0478",
-    "slug": "Tower-Hill-State-Park"
+    "slug": "Tower-Hill-State-Park",
+    "distance": -1
   },
   {
     "name": "Turtle-Flambeau Scenic Waters Area",
@@ -1062,7 +1132,8 @@
     "directions": "The Turtle-Flambeau Scenic Waters Area is located in southern Iron County in far northern Wisconsin. Access from the south is via either U.S. Highway 51 or State Highway 13; access points are off State Highway 182 on the south side of the property or County Highway FF to the north. The property office is located on Highway 51 at the DNR Ranger Station in Mercer.",
     "hours": "The property is open from 6 a.m. to 11 p.m. year-round.",
     "LatLongCoordinates": "46.0994,-90.1699",
-    "slug": "Turtle-Flambeau-Scenic-Waters-Area"
+    "slug": "Turtle-Flambeau-Scenic-Waters-Area",
+    "distance": -1
   },
   {
     "name": "Whitefish Dunes State Park",
@@ -1077,7 +1148,8 @@
     "directions": "Please note there is no access to the park entrance from South Cave Point Dr. The entrance is located off Clark Lake Road.",
     "hours": "The park is open year-round from 6 a.m. to 8 p.m. The main gate opens at 8 a.m.",
     "LatLongCoordinates": "44.9284,-87.1820",
-    "slug": "Whitefish-Dunes-State-Park"
+    "slug": "Whitefish-Dunes-State-Park",
+    "distance": -1
   },
   {
     "name": "Wildcat Mountain State Park",
@@ -1092,7 +1164,8 @@
     "directions": "From the north, take State Highway 131 south from Interstate Highway 94 near Tomah about 20 miles to Ontario.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "43.6976,-90.5740",
-    "slug": "Wildcat-Mountain-State-Park"
+    "slug": "Wildcat-Mountain-State-Park",
+    "distance": -1
   },
   {
     "name": "Willow River State Park",
@@ -1107,7 +1180,8 @@
     "directions": "From Hudson, take County Highway A about 5 miles. The park entrance will be on your left.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "45.0124,-92.6784",
-    "slug": "Willow-River-State-Park"
+    "slug": "Willow-River-State-Park",
+    "distance": -1
   },
   {
     "name": "Wyalusing State Park",
@@ -1122,7 +1196,8 @@
     "directions": "From US Highway 18 and State Highway 35, turn west on County Highway C about just south of the Wisconsin River bridge. Follow Highway C to Highway X. Turn right on Highway X and go one mile to the park entrance. Directional signs are at each intersection.",
     "hours": "The park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "42.9778,-91.1139",
-    "slug": "Wyalusing-State-Park"
+    "slug": "Wyalusing-State-Park",
+    "distance": -1
   },
   {
     "name": "Yellowstone Lake State Park",
@@ -1137,6 +1212,7 @@
     "directions": "If you are traveling from Madison, head west on Highway 18/151 west toward Dodgeville. Near Mount Horeb you will see the exit to State Highway 78. Exit onto 78 and head south to Blanchardville. When you reach Blanchardville, cross the Pecatonica River. At the top of the hill is County Highway F (right hand turn). Take County Highway F about 8 miles to Lake Road. There you will see a sign for Yellowstone Lake State Park. Turn left onto Lake Road. The park office is about one mile down the road on the right side.",
     "hours": "Yellowstone Lake State Park is open year-round from 6 a.m. to 11 p.m.",
     "LatLongCoordinates": "42.7710,-89.9857",
-    "slug": "Yellowstone-Lake-State-Park"
+    "slug": "Yellowstone-Lake-State-Park",
+    "distance": -1
   }
 ]
